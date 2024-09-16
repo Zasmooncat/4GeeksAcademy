@@ -25,7 +25,7 @@ basic_info:
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://www.dropbox.com/scl/fi/kmsavdvp2bzwx6tf5s1p1/20231130_104452.jpg?rlkey=ngahh8cfxa39isp9s7j50r8oz&st=07bw2qmo&dl=0
+    avatar: https://previews.dropbox.com/p/thumb/ACaNRGBtk_qVyR_NDXhH5flbT_I5fLyBtfBuJsS-6lrvQWB_cQIIoDQx8xlrGm12lmG6zd1BMKYXxCzgE3IlrrHITvCytsvhGhNm2JoDKxSyKH2NOBOygPs8kgY1SqZ1kuHHWMcG_9Feij510nZ9cTXLqGxX9O07WetzwkZj0sRQU8t07QRjbIVm-kgxQqovwiSmXB-ekypiuwNLkGmHgnhtm7zM-Igl9YDI9GWk9KICPuWpFi9l9H2LfXoc-Qm0863xpEXI9--PfX0Bv1inbr97J8O_IsfOCxyqgEXTs7ClBv4iIuuahIE7XTlca1nvhUMVp9Z80rEeYkVYsHKXNjTOJr5Ly7osSqEuq4squ1OoM1X9nL5vnTDYhort4M2G4RzMXfc_ry5yBCIIo7SyfwOE/p.jpeg?is_prewarmed=true
 
     # Contact Information
     email: zasmomoxipol@gmail.com #optional
@@ -67,14 +67,7 @@ education:
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Professional sound technician studies about set up, configure and handle everything about sound equipments, sound theory and live shows and events.
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
